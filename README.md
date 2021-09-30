@@ -21,8 +21,7 @@
 [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
 [![Three.js](https://img.shields.io/badge/Three.js-232F3E?style=for-the-badge&logo=three.js&logoColor=ffffff&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/Redux-232F3E?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)]()
-[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()
-[![Jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=101010)]()<br>
+[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()<br>
 
 [![Node.js](https://img.shields.io/badge/Node.js-232F3E?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 [![Expreess](https://img.shields.io/badge/Express-232F3E?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=101010)]()
@@ -30,19 +29,23 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=for-the-badge&logo=graphql&logoColor=654FF0&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-232F3E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)]()
 
-##### Work tools
+###### Work tools
 
 [![Iterm2](https://img.shields.io/badge/Iterm2-232F3E?style=for-the-badge&logo=iterm2&logoColor=ffffff&labelColor=101010)]()
 [![Npm](https://img.shields.io/badge/Npm-232F3E?style=for-the-badge&logo=npm&logoColor=101010&labelColor=101010)]()
 [![Yarn](https://img.shields.io/badge/Yarn-232F3E?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)]()
 
+###### Testing
+[![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()<br>
+[![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
+
 ###### Breaking down...
 
 [![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
 [![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br>
 
-###### Others
+#### Others
 
 <p>Knowledge about centralized and decentralized applications on Blockchain, currently introducing me about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
 
