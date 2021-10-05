@@ -1,15 +1,24 @@
-<!-- The "#" is a default config to give text sizes at this documemt, put more "###" to see size changes -->
+<!-- The "#" is a default config to give text sizes at this documemt, put more "###" to see changes in size-->
 
 ## Autodidact Developer
 
-<!-- Before write nothing, we need to put <p> between our text description to write semantically correct -->
+<!-- We need to put <p> between our text description to write semantically correct or avoid syntax errors -->
 
-<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types to connect easy with the back-end basics, this improves teamwork and the scalability to reuse componets.</p>
+<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork and the scalability to reuse componets on small medium projects using Vue.js or more complex using Angular, each connected with the back-end basics.</p><br>
 
 <!--
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 ### Skills Path
+<!-- Follow the examples 
+
+1. [![HTML5] To indicate a languague for us
+2. (https://img.shields.io/badge/ To start action badge
+3. HTML5-232F3E?style=for-the-badge&logo= To indicate name of icon written HTML5- icon color 232F3E and (badge style) ?style=for-the-badge&logo
+4. html5&logoColor=E34F26&labelColor=101010)]() To describe name&logoColor = Then you indicte logo color 34F26 and background color &labelColor=101010)]()
+
+-->
+
 
 [![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=4A90E2&labelColor=101010)]()
@@ -19,7 +28,6 @@
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-232F3E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
-[![Three.js](https://img.shields.io/badge/Three.js-232F3E?style=for-the-badge&logo=three.js&logoColor=ffffff&labelColor=101010)]()
 [![Redux](https://img.shields.io/badge/Redux-232F3E?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()<br>
 
@@ -40,25 +48,28 @@
 [![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()<br>
 [![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
 
-###### Breaking down...
+###### More about
 
 [![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
-[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br>
+[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br><br>
 
-#### Others
+### Others
 
-<p>Knowledge about centralized and decentralized applications on Blockchain, currently introducing me about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
+<p>Knowledge about centralized and decentralized applications on Blockchain, currently learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
 
 - Tax systems that are regulated automatically according to our qualification as citizens
 - Unforgeable electoral proceedings to end government corruption
 - Commercial and intellectual registration systems
 - Auto insurance policies that are updated in real time based on our qualification as drivers
 - Financial applications that eliminate the presence of intermediaries, creating a free, inclusive, transparent and safer alternative economic system
+- Projects using blockchain methods and API-Rest
 - Different types of 'Smart Contracts' inside blockchain
-- Public blockchain/ Private blockchain/ Hybrid blockchain
-- New projects and Startups using blockchain methods<br><br><br>
+- Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
-<!-- Only <br> works to make linear SPACES, if you know other better mode let me know on a commit -->
+<!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
+
+<a href="https://simpleicons.org/">To choose your Icons click< <<< here</a><br><br>
+
 <p>. . .</p>
 
 ### You can find me too
