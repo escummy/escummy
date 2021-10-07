@@ -4,7 +4,7 @@
 
 <!-- We need to put <p> between our text description to write semantically correct or avoid syntax errors -->
 
-<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, not only improves teamwork but also the scalability to reuse componets, for example on small medium projects using Vue.js or more complex using Angular, both connected with back-end basics.</p><br>
+<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, small medium projects using Vue.js or more complex using Angular, both connected with back-end basics.</p><br>
 
 <!--
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
@@ -20,17 +20,17 @@
 -->
 
 
-[![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=4A90E2&labelColor=101010)]()
-[![Javascipt](https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
-[![Typescript](https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=typescript&logoColor=0067C5&labelColor=101010)]()<br>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-2480E6?style=for-the-badge&logo=css3&logoColor=4A90E2&labelColor=101010)]()
+[![Javascipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
+[![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=0067C5&labelColor=101010)]()<br>
 
-[![Sass](https://img.shields.io/badge/Sass-232F3E?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-232F3E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
-[![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=for-the-badge&logo=graphql&logoColor=654FF0&labelColor=101010)]()<br>
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=101010)]()<br>
 
-[![Node.js](https://img.shields.io/badge/Node.js-232F3E?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 [![Expreess](https://img.shields.io/badge/Express-232F3E?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=101010)]()
 [![Socket.io](https://img.shields.io/badge/Socket.io-232F3E?style=for-the-badge&logo=socket.io&logoColor=yellow&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-232F3E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)]()
@@ -45,12 +45,12 @@
 
 ###### Testing
 
-[![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
-[![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()
+[![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
+[![jest](https://img.shields.io/badge/Jest-53B50A?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()
 
 ###### More about
 
-[![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
+[![Web Assembly](https://img.shields.io/badge/Web_Assembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
 [![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br><br>
 
 ### Others
