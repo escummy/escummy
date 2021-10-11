@@ -28,7 +28,8 @@
 [![Sass](https://img.shields.io/badge/Sass-232F3E?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-232F3E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
-[![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=101010)]()<br>
+[![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()<br>
 
 [![Node.js](https://img.shields.io/badge/Node.js-232F3E?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
 [![Expreess](https://img.shields.io/badge/Express-232F3E?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=101010)]()
@@ -41,7 +42,6 @@
 [![Npm](https://img.shields.io/badge/Npm-232F3E?style=for-the-badge&logo=npm&logoColor=101010&labelColor=101010)]()
 [![Yarn](https://img.shields.io/badge/Yarn-232F3E?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)]()
-[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()
 
 ###### Testing
 
