@@ -46,12 +46,13 @@
 ###### Testing
 
 [![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
-[![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()
+[![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()<br>
 
 ###### More about
 
 [![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
-[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br><br>
+[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br>
+[![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br><br><br>
 
 ### Others
 
@@ -61,14 +62,15 @@
 - Unforgeable electoral proceedings to end government corruption
 - Commercial and intellectual registration systems
 - Auto insurance policies that are updated in real time based on our qualification as drivers
-- Financial applications that eliminate the presence of intermediaries, creating a free, inclusive, transparent and safer alternative economic system
+- Financial applications that eliminate the presence of intermediaries
 - Projects using blockchain methods and API-Rest
 - Different types of 'Smart Contracts' inside blockchain
-- Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
+- Public blockchain/ Private blockchain/ Hybrid blockchain
+- Create a free, inclusive, transparent and safer alternative economic system<br><br><br>
 
 <!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
 
-<a href="https://simpleicons.org/">To choose your Icons click< <<< here</a><br><br>
+<a href="https://simpleicons.org/">To choose your own Icons here< <<< Click</a><br><br>
 
 <p>. . .</p>
 
