@@ -63,10 +63,10 @@
 - Commercial and intellectual registration systems
 - Auto insurance policies that are updated in real time based on our qualification as drivers
 - Financial applications that eliminate the presence of intermediaries
+- Create a free, inclusive, transparent and safer alternative economic system
 - Projects using blockchain methods and API-Rest
 - Different types of 'Smart Contracts' inside blockchain
-- Public blockchain/ Private blockchain/ Hybrid blockchain
-- Create a free, inclusive, transparent and safer alternative economic system<br><br><br>
+- Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
 <!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
 
