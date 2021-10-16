@@ -19,6 +19,7 @@
 
 -->
 
+<!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
 
 [![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=4A90E2&labelColor=101010)]()
@@ -68,9 +69,9 @@
 - Different types of 'Smart Contracts' inside blockchain
 - Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
-<!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
+<!-- if we write target="_blank" to open the link in a new window at the moment doesn't work but anyway -->
 
-<a href="https://simpleicons.org/">To choose your own Icons here< <<< Click</a><br><br>
+<a href="https://simpleicons.org/" target="_blank">To choose your own Icons here< <<< Click</a><br><br>
 
 <p>. . .</p>
 
