@@ -49,13 +49,13 @@
 [![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
 [![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()<br>
 
-###### More about
+###### Learning more about
 
 [![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
 [![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br>
 [![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br><br><br>
 
-### Others
+### A side
 
 <p>Knowledge about centralized and decentralized applications on Blockchain, currently learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
 
@@ -69,9 +69,9 @@
 - Different types of 'Smart Contracts' inside blockchain
 - Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
-<!-- if we write target="_blank" to open the link in a new window at the moment doesn't work but anyway -->
+<!-- if we write target="_blank" to open the link in a new window at the moment doesn't work but doesn't matther -->
 
-<a href="https://simpleicons.org/" target="_blank">To choose your own Icons here< <<< Click</a><br><br>
+<a href="https://simpleicons.org/" target="_blank">Choose your own Icons here< << Click</a><br><br>
 
 <p>. . .</p>
 
