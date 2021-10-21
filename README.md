@@ -51,7 +51,6 @@
 
 ###### Learning more about
 
-[![Web Assembly](https://img.shields.io/badge/Web_Assembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
 [![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br>
 [![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br><br><br>
 
