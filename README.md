@@ -4,7 +4,7 @@
 
 <!-- We need to put <p> between our text description to write semantically correct or avoid syntax errors -->
 
-<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, small medium projects using Vue.js or more complex using Angular, both connected with back-end basics.</p><br>
+<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, progresive projects using Vue.js or more complex using Angular, both connected with back-end basics.</p><br>
 
 <!--
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
@@ -51,12 +51,13 @@
 
 ###### Learning more about
 
-[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br>
-[![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br><br><br>
+[![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br>
+[![Wwb Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
+[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br><br><br>
 
 ### A side
 
-<p>Knowledge about centralized and decentralized applications on Blockchain, currently learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
+<p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
 
 - Tax systems that are regulated automatically according to our qualification as citizens
 - Unforgeable electoral proceedings to end government corruption
@@ -68,7 +69,7 @@
 - Different types of 'Smart Contracts' inside blockchain
 - Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
-<!-- if we write target="_blank" to open the link in a new window at the moment doesn't work but doesn't matther -->
+<!-- if we write the atribute target="_blank" to open the link in a new window, at the moment doesn't work but doesn't matther -->
 
 <a href="https://simpleicons.org/" target="_blank">Choose your own Icons here< << Click</a><br><br>
 
