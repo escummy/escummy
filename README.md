@@ -1,69 +1,36 @@
-<!-- The "#" is a default config to give text sizes at this documemt, put more "###" to see changes in size-->
+<!-- The "#" is a default config to to size the title and subtitles, insert more "###" to see changes on the size-->
 
-## Autodidact Developer
+<!-- ## Autodidact Developer -->
 
-<!-- We need to put <p> between our text description to write semantically correct or avoid syntax errors -->
+<!-- We need to put <p> between our text description to write semantically correct -optional- -->
 
-<p>Helping companies to solve problems, modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, progressive projects using Vue.js or more complex using Angular, responsive web designs connected with the back-end basics.</p><br>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+# How are you! 👋
+
+<!-- ##### Updating... -->
+
+<!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=escummy&show_icons=true&theme=dracula" alt="escummy"/> -->
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escummy&theme=dracula&count_private=true&langs_count=10&layout=compact"/></a> 
+
+<p>YOU CAN HELP ME VIA ISSUES OR PULL REQUEST [ ... ]</p>
+
+<!-- <a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 
 <!--
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
-### Skills Path
-<!-- Follow the examples 
-
-1. [![HTML5] To indicate a name of languague before start
-2. (https://img.shields.io/badge/ To start action badge effect
-3. HTML5-232F3E?style=for-the-badge&logo= To indicate name of icon written HTML5- icon color 232F3E and (badge style) ?style=for-the-badge&logo
-4. html5&logoColor=E34F26&labelColor=101010)]() To describe name&logoColor = Then you indicte logo color 34F26 and background color &labelColor=101010)]()
-
--->
-
-<!-- Only <br> works to make inline SPACES on reedme.md [if you know other correct mode let me know in a commit] -->
-
-[![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-232F3E?style=for-the-badge&logo=css3&logoColor=4A90E2&labelColor=101010)]()
-[![Javascipt](https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
-[![Typescript](https://img.shields.io/badge/TypeScript-232F3E?style=for-the-badge&logo=typescript&logoColor=0067C5&labelColor=101010)]()<br>
-
-[![Sass](https://img.shields.io/badge/Sass-232F3E?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=101010)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-232F3E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-232F3E?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=101010)]()
-[![GraphQL](https://img.shields.io/badge/GraphQL-232F3E?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=101010)]()
-[![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=101010)]()<br>
-
-[![Node.js](https://img.shields.io/badge/Node.js-232F3E?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=101010)]()
-[![Expreess](https://img.shields.io/badge/Express-232F3E?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=101010)]()
-[![Socket.io](https://img.shields.io/badge/Socket.io-232F3E?style=for-the-badge&logo=socket.io&logoColor=FFFFFF&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-232F3E?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=101010)]()
-
-###### Work tools
-
-[![Iterm2](https://img.shields.io/badge/Iterm2-232F3E?style=for-the-badge&logo=iterm2&logoColor=ffffff&labelColor=101010)]()
-[![Npm](https://img.shields.io/badge/Npm-232F3E?style=for-the-badge&logo=npm&logoColor=101010&labelColor=101010)]()
-[![Yarn](https://img.shields.io/badge/Yarn-232F3E?style=for-the-badge&logo=yarn&logoColor=2C8EBB&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=F05032&labelColor=101010)]()
-
-###### Testing
-
-[![Testing Library](https://img.shields.io/badge/Testing_Library-232F3E?style=for-the-badge&logo=testinglibrary&logoColor=FA5C5C&labelColor=101010)]()
-[![jest](https://img.shields.io/badge/Jest-232F3E?style=for-the-badge&logo=jest&logoColor=6BD80B&labelColor=101010)]()<br>
-
-###### Learning more about
-
-[![Web Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
-### A side
-
-<p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily</p>
-
 <!-- if we write the atribute target="_blank" to open the link in a new window, doesn't work but doesn't matther -->
 
-<a href="https://simpleicons.org/" target="_blank">Choose your own Icons here< << Click</a><br><br>
+<!-- <p>. . .</p> -->
 
-<p>. . .</p>
+<!-- ### Where to find me
 
-### You can find me too
-
-[![Instagram](https://img.shields.io/badge/@escummy-232F3E?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=101010)]()
-[![Linkedin](https://img.shields.io/badge/Gonzalo_Cugiani-232F3E?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=101010)]()
-[![Youtube](https://img.shields.io/badge/Gonzalo_Cugiani-232F3E?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=101010)]()
+<p>
+<a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p><br> -->
