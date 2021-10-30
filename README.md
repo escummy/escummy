@@ -10,7 +10,8 @@
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 ### Skills Path
-<!-- Follow the examples 
+
+<!-- Follow the examples
 
 1. [![HTML5] To indicate a name of languague before start
 2. (https://img.shields.io/badge/ To start action badge effect
@@ -52,6 +53,7 @@
 ###### Learning more about
 
 [![Web Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
+
 ### A side
 
 <p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily</p>
