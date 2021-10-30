@@ -4,7 +4,7 @@
 
 <!-- We need to put <p> between our text description to write semantically correct or avoid syntax errors -->
 
-<p>Helping companies to make and have responsive web designs with modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, progresive projects using Vue.js or more complex using Angular, both connected with back-end basics.</p><br>
+<p>Helping companies to solve problems, modern features in UX 'User Experience' and UI 'User Interface' choosing clean and structured code based on classes/types, this improves teamwork but also the scalability to reuse componets, progressive projects using Vue.js or more complex using Angular, responsive web designs connected with the back-end basics.</p><br>
 
 <!--
 **escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
@@ -64,9 +64,8 @@
 - Commercial and intellectual registration systems
 - Auto insurance policies that are updated in real time based on our qualification as drivers
 - Financial applications that eliminate the presence of intermediaries
-- Create a free, inclusive, transparent and safer alternative economic system
-- Projects using blockchain methods and API-Rest
-- Different types of 'Smart Contracts' inside blockchain
+- Inclusive, transparent, free and safer alternative economic system
+- Different types of 'Smart Contracts' and signed it
 - Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
 <!-- if we write the atribute target="_blank" to open the link in a new window, at the moment doesn't work but doesn't matther -->
