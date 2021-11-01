@@ -51,10 +51,7 @@
 
 ###### Learning more about
 
-[![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=101010)]()<br>
-[![Wwb Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br>
-[![Blockchain.com](https://img.shields.io/badge/Blockchain-232F3E?style=for-the-badge&logo=blockchain.com&logoColor=white&labelColor=101010)]()<br><br><br><br>
-
+[![Wwb Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
 ### A side
 
 <p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
@@ -68,7 +65,7 @@
 - Different types of 'Smart Contracts' and signed it
 - Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
 
-<!-- if we write the atribute target="_blank" to open the link in a new window, at the moment doesn't work but doesn't matther -->
+<!-- if we write the atribute target="_blank" to open the link in a new window, doesn't work but doesn't matther -->
 
 <a href="https://simpleicons.org/" target="_blank">Choose your own Icons here< << Click</a><br><br>
 
