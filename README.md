@@ -51,7 +51,7 @@
 
 ###### Learning more about
 
-[![Wwb Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
+[![Web Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
 ### A side
 
 <p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
