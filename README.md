@@ -54,16 +54,7 @@
 [![Web Assembly](https://img.shields.io/badge/WebAssembly-232F3E?style=for-the-badge&logo=webassembly&logoColor=654FF0&labelColor=101010)]()<br><br><br>
 ### A side
 
-<p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily like:</p>
-
-- Tax systems that are regulated automatically according to our qualification as citizens
-- Unforgeable electoral proceedings to end government corruption
-- Commercial and intellectual registration systems
-- Auto insurance policies that are updated in real time based on our qualification as drivers
-- Financial applications that eliminate the presence of intermediaries
-- Inclusive, transparent, free and safer alternative economic system
-- Different types of 'Smart Contracts' and signed it
-- Public blockchain/ Private blockchain/ Hybrid blockchain<br><br><br>
+<p>Knowledge about centralized and decentralized applications on Blockchain, learning about new programming languages to create projects based on payments, digital gateaway and other popular usages that we can see daily</p>
 
 <!-- if we write the atribute target="_blank" to open the link in a new window, doesn't work but doesn't matther -->
 
