@@ -8,29 +8,63 @@
 
 # How are you! 👋
 
-<!-- ##### Updating... -->
+  Software Developer & SysOps Administrator.
 
-<!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=escummy&show_icons=true&theme=dracula" alt="escummy"/> -->
+  ("As programmer always trying to learn, listening and duplicating")
 
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escummy&theme=dracula&count_private=true&langs_count=10&layout=compact"/></a> 
+  - Oracle Cloud Infrastructure Foundations Associate
+  - Oracle Cloud Infrastructure Architect Associate
+  - AWS Cloud Practitioner Essentials
+  - Azure Cloud Fundamentals (AZ-900)
+  - HashiCorp Terraform Associate (003)
 
-<p>YOU CAN HELP ME VIA ISSUES OR PULL REQUEST [ ... ]</p>
+<br><br>
 
-<!-- <a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+<div align="center"> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height=37px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="35px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="35px" /></a>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="36px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="60px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50px" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50px" /></a>
+</div>
 
-<!--
-**escummy/escummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+<br><br>
 
-<!-- if we write the atribute target="_blank" to open the link in a new window, doesn't work but doesn't matther -->
+> Current Stats
 
-<!-- <p>. . .</p> -->
+<br>
 
-<!-- ### Where to find me
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=escummy&show_icons=true&theme=dracula" alt="escummy"/><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escummy&theme=dracula&count_private=true&langs_count=10&layout=compact"/></a>
+</div>
 
-<p>
-<a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p><br> -->
+<br>
+
+> You can also find me
+
+<div align="center">
+<!-- <a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a> -->
+<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/20149906/gonzalo-cugiani" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-FFF.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange"/></a>
+<a href="https://ethereum.stackexchange.com/users/111291/gonzalo-cugiani" target="_blank"><img alt="Ethereum StackExchange" src="https://img.shields.io/badge/stackexchange-D3D3D3.svg?&style=for-the-badge&logo=stackexchange&logoColor=" />
+</a>
+<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
+
+<br>
