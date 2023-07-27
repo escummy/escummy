@@ -56,14 +56,14 @@
 > Where to find me
 
 <div align="center">
-<a href="https://stackoverflow.com/users/20149906/gonzalo-cugiani" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-FFF.svg?&style=for-the-badge&logo=stackoverflow&logoColor=" width="14%" />
+<a href="https://stackoverflow.com/users/20149906/gonzalo-cugiani" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-FFF.svg?&style=for-the-badge&logo=stackoverflow&logoColor=" width="16%" />
 </a>&nbsp;
-<a href="https://ethereum.stackexchange.com/users/111291/gonzalo-cugiani" target="_blank"><img alt="Ethereum StackExchange" src="https://img.shields.io/badge/stackexchange-D3D3D3.svg?&style=for-the-badge&logo=stackexchange&logoColor=" width="14%" />
+<a href="https://ethereum.stackexchange.com/users/111291/gonzalo-cugiani" target="_blank"><img alt="Ethereum StackExchange" src="https://img.shields.io/badge/stackexchange-D3D3D3.svg?&style=for-the-badge&logo=stackexchange&logoColor=" width="16%" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="10%" />
+<a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="12%" />
 </a>&nbsp;
-<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="11%" />&nbsp;
-<a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="9.5%" />
+<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="13%" />&nbsp;
+<a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="11.8%" />
 </a>
 </a>
 </div>
