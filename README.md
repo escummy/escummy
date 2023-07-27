@@ -18,7 +18,7 @@
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
 
-<br><br>
+<br><br><br>
 
 <div align="center"> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40px" /></a>&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,9 @@
 
 <br><br>
 
-> Current Stats
+<div align="center">
+--> &nbsp;&nbsp;Current Stats&nbsp;&nbsp; <--
+</div>
 
 <br>
 
@@ -51,9 +53,13 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=escummy&show_icons=true&theme=dracula" alt="escummy"/><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escummy&theme=dracula&count_private=true&langs_count=10&layout=compact"/></a>
 </div>
 
-<br>
+<br><br>
 
-> Where to find me
+<div align="center">
+--> &nbsp;&nbsp;You can find me&nbsp;&nbsp; <--
+</div>
+
+<br>
 
 <div align="center">
 <a href="https://stackoverflow.com/users/20149906/gonzalo-cugiani" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-FFF.svg?&style=for-the-badge&logo=stackoverflow&logoColor=" width="16%" />
@@ -62,9 +68,9 @@
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/gonzalocugiani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="12%" />
 </a>&nbsp;
-<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="13%" />&nbsp;
+<a href="https://www.instagram.com/escummy" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E6526F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="13%" />
+</a>&nbsp;
 <a href="https://github.com/escummy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="11.8%" />
-</a>
 </a>
 </div>
 
