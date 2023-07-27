@@ -10,7 +10,7 @@
 
   Software Developer & SysOps Administrator.
 
-  ("As programmer always trying to learn, listening and duplicating")
+  ("As programmer always learning, listening and duplicating")
 
   - Oracle Cloud Infrastructure Foundations Associate
   - Oracle Cloud Infrastructure Architect Associate
