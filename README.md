@@ -17,6 +17,7 @@
   - AWS Cloud Practitioner Essentials
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
+  - Databricks Lakehouse Fundamentals
 
 <br><br><br>
 
