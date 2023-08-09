@@ -1,8 +1,4 @@
-<!-- The "#" is a default config to to size the title and subtitles, insert more "###" to see changes on the size-->
-
 <!-- ## Autodidact Developer -->
-
-<!-- We need to put <p> between our text description to write semantically correct -optional- -->
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
