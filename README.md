@@ -15,6 +15,7 @@
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
   - Databricks Lakehouse Fundamentals
+  - Databricks Platform Administrator
   - Databricks Generative AI Fundamentals
 
 <br><br><br>
