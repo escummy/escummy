@@ -11,9 +11,9 @@
   - Oracle Cloud Infrastructure Foundations Associate
   - Oracle Cloud Infrastructure Architect Associate
   - Oracle Cloud Infrastructure DevOps Professional
-  - AWS Cloud Practitioner Essentials
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
+  - AWS Cloud Practitioner Essentials
   - Databricks Generative AI Fundamentals
   - Databricks Lakehouse Fundamentals
   - Databricks Platform Administrator
