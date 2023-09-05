@@ -11,6 +11,7 @@
   - Oracle Cloud Infrastructure Foundations Associate
   - Oracle Cloud Infrastructure Architect Associate
   - Oracle Cloud Infrastructure DevOps Professional
+  - Microsoft System Administration Essentials
   - AWS Cloud Practitioner Essentials
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
