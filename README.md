@@ -13,9 +13,9 @@
   - Oracle Cloud Infrastructure DevOps Professional
   - Microsoft System Administration Essentials
   - AWS Cloud Practitioner Essentials
+  - Google Cloud Digital Leader (GCP-CDL)
   - Azure Cloud Fundamentals (AZ-900)
   - HashiCorp Terraform Associate (003)
-  - Google Cloud Digital Leader (GCP-CDL)
   - Databricks Generative AI Fundamentals
   - Databricks Lakehouse Fundamentals
   - Databricks Platform Administrator
