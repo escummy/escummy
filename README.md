@@ -4,7 +4,7 @@
 
 # How are you! 👋
 
-  Software Developer & SysOps Administrator
+  DevOps | Software Developer & SysOps Administrator
 
   ("As programmer always learning, listening and duplicating")
 
